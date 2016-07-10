@@ -1,1 +1,10 @@
-<?php phpinfo(); ?>
+<?php 
+phpinfo(); 
+
+echo 'hello world';
+function sdfk(){
+
+	
+}
+
+?>
